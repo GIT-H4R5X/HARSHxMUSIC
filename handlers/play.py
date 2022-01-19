@@ -318,7 +318,7 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                            text="𝐒𝐦𝐨𝐊𝐞𝐫 🚬",
+                            text="𝙈𝘼𝙂𝙄𝘾𝙄𝘼𝙉",
                             url=f"https://t.me/HARSH72114"),
                             
                     InlineKeyboardButton(
