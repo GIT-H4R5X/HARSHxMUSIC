@@ -14,3 +14,7 @@ SESSION_NAME = getenv("SESSION_NAME", "BQCdZUPVqWdHudEeVSwMaYj2FoNB7x5LMGmFBTSe6
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 PMPERMIT = getenv("PMPERMIT", "ENABLE")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "2032501254 1812140191").split()))
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "cleo_invida")
+BOT_USERNAME = getenv("BOT_USERNAME", "veezvideobot")
+IMG_1 = getenv("IMG_1", "https://telegra.ph/file/d6f92c979ad96b2031cba.png")
+IMG_2 = getenv("IMG_2", "https://telegra.ph/file/02c9ae9064bdb8a6115e4.jpg")
