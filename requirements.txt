@@ -14,3 +14,10 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
+heroku3
+motor
+psutil
+future
+wget
+gitpython
+dnspyjron
