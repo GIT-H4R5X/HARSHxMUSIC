@@ -40,3 +40,10 @@
       "required": true,
       "value": ""
     },
+    "BOT_USERNAME": {
+      "description": "Your MusicPlayer Bot UserName.",
+      "required": True,
+      "value": ""
+    }
+  }
+}
