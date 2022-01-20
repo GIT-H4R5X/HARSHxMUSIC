@@ -37,6 +37,6 @@
     },
     "ASSISTANT_NAME": {
       "description": "Your Assistant Username",
-      "required": True,
+      "required": true,
       "value": ""
     },
