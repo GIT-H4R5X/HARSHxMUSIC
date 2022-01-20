@@ -20,4 +20,4 @@ psutil
 future
 wget
 gitpython
-dnspyjron
+dnspython
