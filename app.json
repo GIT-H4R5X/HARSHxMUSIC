@@ -54,6 +54,8 @@
       "description": "fill with your telegram account nickname/name",
       "required": true,
       "value": "Levina"
-    }
-  }
-}
+    },
+    "GROUP_SUPPORT": { 
+      "description": "if you have group, then fill the group username here without @", 
+      "required": true, 
+      "value": "VeezSupportGroup"
