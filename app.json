@@ -59,3 +59,8 @@
       "description": "if you have group, then fill the group username here without @", 
       "required": true, 
       "value": "VeezSupportGroup"
+    },
+    "UPDATES_CHANNEL": { 
+      "description": "if you have channel, then fill the channel username here without @", 
+      "required": true, "value": 
+      "levinachannel"
