@@ -44,6 +44,8 @@
       "description": "Your MusicPlayer Bot UserName.",
       "required": true,
       "value": ""
-    }
-  }
-}
+    },
+    "OWNER_NAME": { 
+      "description": "fill with your telegram account username without @",              
+      "required": true,
+      "value": ""
