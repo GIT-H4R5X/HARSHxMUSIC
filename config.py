@@ -22,3 +22,4 @@ ALIVE_IMG = getenv("ALIVE_IMG", "https://telegra.ph/file/c83b000f004f01897fe18.p
 IMG_1 = getenv("IMG_1", "https://telegra.ph/file/d6f92c979ad96b2031cba.png")
 IMG_2 = getenv("IMG_2", "https://telegra.ph/file/02c9ae9064bdb8a6115e4.jpg")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "VeezSupportGroup")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "levinachannel")
